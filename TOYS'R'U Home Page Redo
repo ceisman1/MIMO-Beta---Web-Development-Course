@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+    <body>
+        <h1>TOYS'R'U!</h1>
+        <p> Welcome to TOYS'R'U, where all you need is your imagination!</p>
+        <ul>
+            <li>
+                <a href="https://TOYS'R'U.com/aboutus">About Us</a>
+            </li>
+            <li>
+                <a href="https://TOYS'R'U.com/privacy">Privacy</a>
+            </li>
+            <li>
+                <a href="https://TOYS'R'U.com/jobs">Jobs</a>
+            </li>
+        </ul>
+        <a href=""><strong>Design a New Toy</strong></a>
+        <p>Click the link above to start designing your new toy!</p>
+        <h2>Best Sellers</h2>
+        <ol>
+            <li>
+                <a href="https://TOYS'R'U.com/bestsellers/bouncyball">Bouncy Ball</a>
+            </li>
+            <li>
+                <a href="https://TOYS'R'U.com/bestsellers/rubberduck">Rubber Duck</a>
+            </li>
+            <li>
+                <a href="https://TOYS'R'U.com/bestsellers/hulahoop">Hula Hoop</a>
+            </li>
+        </ol>
+        <footer>
+            <p>TOYS'R'U 
+                <a href="mailto:nobody@getmimo.com">Email us</a>
+            </p>
+        </footer>
+    </body>
+</html>
