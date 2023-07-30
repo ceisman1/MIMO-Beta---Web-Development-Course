@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Resume</title>
+  </head>
+  <body>
+    <h1>Sandra Austin</h1>
+    <h2>Coding Rockstar</h2>
+    <img src="/img/portrait-cv.png">
+    <div>
+      <h3>Relevant Experience</h3>
+      <ul>
+        <li>Sr. Software Engineer - MacAvvoy;
+          <ol>"Worked on Sr. Mobile Development projects using iOS/Windows", "Led engineering teams on integrating POS and mPOS payment terminals "</ol>
+        </li>
+        <br>
+        <li>Software Developer II - Rouge;
+          <ol>"Developed and implemented software for embedded products", "Performed threat and risk analysis countermeasures to comply with risk acceptance criteria"</ol>
+        </li>
+        <br>
+        <li>.NET Software Engineer - Serendipity;
+          <ol>"Promoted to team lead within 6 months", "Collaborated on .NET/C# development projects that grew client's subscription base by 12% in the first 8 weeks""</ol>
+        </li>
+      </ul>
+      <div>
+        <h3>Recent Projects</h3>
+        <ul>
+          <li>
+            <a href="">RSS Reader</a>
+          </li>
+          <li>
+            <a href="">Content Management System</a>
+          </li>
+          <li>
+            <a href="">FTP Client</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
