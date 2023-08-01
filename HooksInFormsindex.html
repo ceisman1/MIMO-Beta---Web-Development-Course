@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+ <head>
+  <script type="module" src="HooksInFormsindex.jsx"></script>
+  <style>
+   body {
+    font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+    width:100vw;
+    min-height:100vh;
+    margin:auto;
+    background-color: #f6f8d0;
+    box-shadow: inset 0px 0px 10px 3px rgba(0,0,0,0.2);
+   }
+   div.root {
+    width:100%;
+    max-width:400px;
+    margin:auto;
+    box-sizing:border-box;
+    padding:16px;
+   }
+   div.form_row {
+    margin-bottom:16px;
+   }
+
+   input, textarea, select {
+    font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+    margin-top:8px;
+    width:100%;
+    box-shadow: 0px 0px 8px 3px rgba(110,110,90,0.2);
+    background-color:rgb(248,248,238);
+    padding: 16px;
+    box-sizing:border-box;
+    border:none;
+    border-radius:24px;
+    font-size:0.9em;
+   }
+   input, textarea {
+    line-height:16px;
+   }
+   input {
+    height:48px;
+   }
+   .error {
+    font-size:0.9em;
+    margin-top:4px;
+    margin-bottom:0px;
+    padding:8px;
+    box-sizing:border-box;
+    font-size:0.75em;
+    font-style:italic;
+    color:red;
+   }
+  </style>
+ </head>
+ <body>
+  <div id="root" class="root"></div>
+ </body>
+</html>
